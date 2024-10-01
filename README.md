@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: 
     - https://www.linkedin.com/in/sergio-hernandez-acosta/ 
-    - https://sergiojhernandezacosta.com/
+    - https://sergiicodes.github.io/
 
 <!--
 **sergiicodes/sergiicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
