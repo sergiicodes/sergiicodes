@@ -1,14 +1,7 @@
-### Hi there 👋 This is Sergio's GitHub! 🙋‍♀️
-
-- 🔭 I'm currently: a masters student focusing on data science 👩‍💻 after coming off of undergraduate studies in mechanical engineering ⚙️
+### Hi there  🙋‍♀️
 
 - 🌱 I'm super passionate: about using programming 💻 as a tool to solve a breadth of problems!
 
-- 🤔 I'm looking for help with: machine learning , SQL programming 
-
-- 📫 How to reach me: 
-    - https://www.linkedin.com/in/sergio-hernandez-acosta/ 
-    - https://sergiicodes.github.io/
 
 <!--
 **sergiicodes/sergiicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
